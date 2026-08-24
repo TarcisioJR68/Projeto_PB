@@ -9,8 +9,8 @@ Nome: Toolkit vuln web
 
 O projeto será uma ferramenta de análise e exploração simples de re
 cursos web e de redes com a finalidade de aprendizado a respeito de
-ferramentas de segurança funcionam e programação na web e em disposi
-tivos mobile
+como as ferramentas de segurança funcionam e programação na web e em 
+dispositivos mobile
 
 #Resumo das Funcionalidades
 
