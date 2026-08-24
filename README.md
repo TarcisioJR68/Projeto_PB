@@ -3,7 +3,7 @@ Projeto voltado a disciplina de programação B
 
 #Nome do Projeto
 
-Nome: Toolkit vuln web
+Nome: Web Exploration Toolkit
 
 #Resumo do Projeto
 
@@ -16,7 +16,7 @@ dispositivos mobile
 
 Algumas das funcionalidades são:
 
-1 - interceptação de requisições http/https
+1 - interceptação e modificação de requisições http/https
 
 2 - funcionalidade de brute force em diretórios e senhas
 
