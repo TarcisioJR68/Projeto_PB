@@ -1,20 +1,15 @@
 # Web Exploration Toolkit
 
-> Ferramenta voltada para Análise de vulnerabilidades e obtenção de informações
+> Ferramenta voltada para análise de funções e vulnerabilidades web 
 
-#Resumo do Projeto
+## Sobre o projeto 
+O Web Exploration Toolkit terá como finalidade o auxílio de desenvolvedores e pessoas que trabalham com segurança
+da informação ou desejam aprender sobre segurança ou a respeito do funcionamentos da web
 
-O projeto será uma ferramenta de análise e exploração simples de re
-cursos web e de redes com a finalidade de aprendizado a respeito de
-como as ferramentas de segurança funcionam e programação na web e em 
-dispositivos mobile
+## Funcionalidades 
 
-#Resumo das Funcionalidades
+### Entre as principais funcionalidades do app, destacam-se:
 
-Algumas das funcionalidades são:
-
-1 - interceptação e modificação de requisições http/https
-
-2 - funcionalidade de brute force em diretórios e senhas
-
-3 - análise de portas abertas
+ **1 - Interceptação de requisições http/https
+ **2 - Análise de portas
+ **3 - Realização de brute force (Com as opções de diretório ou senha)
