@@ -1,9 +1,6 @@
-# Projeto_PB
-Projeto voltado a disciplina de programação B
+# Web Exploration Toolkit
 
-#Nome do Projeto
-
-Nome: Web Exploration Toolkit
+> Ferramenta voltada para Análise de vulnerabilidades e obtenção de informações
 
 #Resumo do Projeto
 
