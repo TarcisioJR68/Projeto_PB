@@ -18,7 +18,7 @@ O Web Exploration Toolkit é uma ferramenta simples que terá como finalidade o 
 4 - Teste de senhas (Brute Force de senhas)
 
  ## Objetivo
- -Oferecer uma ferramenta simple a partir de uma interface voltada para segurança, sendo que grande parte das ferramentas são direcionadas para terminal
+ - Oferecer uma ferramenta simple a partir de uma interface voltada para segurança, sendo que grande parte das ferramentas são direcionadas para terminal
 
  ## Observações
  - O desenvolvimeto desse projeto é apenas para fins educativos. Qualquer uso inapropriado é de inteira responsabilidade do utilizador
