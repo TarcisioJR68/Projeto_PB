@@ -22,5 +22,5 @@ O Web Exploration Toolkit é uma ferramenta simples que terá como finalidade o 
 
  ## Observações
  - O desenvolvimeto desse projeto é apenas para fins educativos. Qualquer uso inapropriado é de inteira responsabilidade do utilizador
- - Como é voltado apenas para web, a funcionalidade de brute force de senhas, diretários e portas será voltada especificamente para web
+ - Como é voltado apenas para web, a funcionalidade de brute force de senhas, diretários e portas será voltada para web
  
