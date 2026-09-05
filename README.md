@@ -28,5 +28,3 @@
 ### O projeto estará disponível para:
 - Ambiente Mobile --> Dispositivos móveis
 - Ambiente Web --> No formato de site
-
-***OBS***:Poderá haver possíveis alterações posteriores sendo essa uma versão teste
