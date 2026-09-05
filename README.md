@@ -1,26 +1,22 @@
-# Web Exploration Toolkit
+# medical management system
 
-> Ferramenta voltada para análise de funções e vulnerabilidades web 
+> Plataforma médica voltada para gerenciamento de atividades médicas e do paciente
 
-## Sobre o projeto 
-O Web Exploration Toolkit é uma ferramenta simples que terá como finalidade o auxílio de desenvolvedores e pessoas que trabalham com segurança da informação ou desejam aprender sobre segurança e desbravar a sobre os serviçoes que estão presentes em um site
-
-## Funcionalidades 
-
-### Dentre as principais funcionalidades do app, destacam-se:
-
-1 - Interceptação de requisições http/https
- 
-2 - Análise de portas
- 
-3 - Busca de diretórios presentes em uma página
-
-4 - Teste de senhas (Brute Force de senhas)
-
- ## Objetivo
- - Oferecer uma ferramenta simple a partir de uma interface voltada para segurança, sendo que grande parte das ferramentas são direcionadas para terminal
-
- ## Observações
- - O desenvolvimeto desse projeto é apenas para fins educativos. Qualquer uso inapropriado é de inteira responsabilidade do utilizador
- - Como é voltado apenas para web, a funcionalidade de brute force de senhas, diretários e portas será voltada para web
- 
+## Funcionalidades
+**
+- Armazenamento de prontuários médicos
+- Recuperação dos prontuários
+- Prescrição de medicamentos e instruções de uso
+- Solicitação de consultas
+- Armazenameto dos resultados do paciente
+**
+## Objetivos
+**
+- Fornecer um meio de gerenciamento das atividades médicas
+- garantir organização no agendamento de fichas
+- fornecer um meio de prescrição seguro de medicamentos
+- Fornecer um meio de agendamento online
+- Ponderar os resultados gerados e buscar novos meios de resolução
+ **
+## Detalhes
+** O armazenamento será feito por meio de formulários que serão armazenados no formato de pdf ao serem enviados e recuperados pelos mesmos formatos. As prescrições também serão enviadas no formato de pdf, porém visa-se incrementar outros formatos se possível no projeto tanto de envio quanto de recuperação, porém não é garantido**
