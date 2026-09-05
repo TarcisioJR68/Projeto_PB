@@ -1,23 +1,29 @@
 # Medical Management System
 
-> Plataforma médica voltada para gerenciamento de atividades médicas e do paciente
+> Plataforma voltada para gerenciamento de atividades médicas e do paciente
 
-## Funcionalidades
+## Autenticação
+- **Tela de usuário e login**
+- **Opção de recuperação de senha**
+- **Criação de conta de usuários ou médico**
+- **Upload de foto de perfil**
 
-- **Armazenamento de prontuários médicos**
-- **Recuperação dos prontuários**
-- **Prescrição de medicamentos e instruções de uso**
-- **Solicitação de consultas**
-- **Obtenção de informações dos pacientes internados**
-- **Armazenameto dos resultados do paciente**
+## Funções
+- **Criação de ficha do paciente**
+- **Prescrição de medicamentos**
+- **Agendamento de consultas**
+- **Armazenamento de informações e estado do paciente**
 
 ## Objetivos
 
-- **Fornecer um meio de gerenciamento das atividades médicas**
-- **garantir organização no agendamento de fichas**
-- **fornecer um meio de prescrição seguro de medicamentos**
-- **Fornecer um meio de agendamento online**
-- **Ponderar os resultados gerados e buscar novos meios de resolução**
+- **Fornecer um fácil gerenciamento das consultas**
+- **Organizar laudos médicos**
+- **Facilitar o agendamento das consultas**
+- **Organizar informações dos pacientes no ambiente hospitalar**
 
-## Detalhes
-**O armazenamento será feito por meio de formulários que serão armazenados no formato de pdf ao serem enviados e recuperados pelos mesmos formatos. As prescrições também serão enviadas no formato de pdf, porém visa-se incrementar outros formatos se possível no projeto tanto de envio quanto de recuperação, porém não é garantido**
+## Interfaces
+### O projeto estará disponível para:
+- Ambiente Mobile --> Dispositivos móveis
+- Ambiente Web --> No formato de site
+
+***OBS***:Poderá haver possíveis alterações posteriores sendo essa uma versão teste
