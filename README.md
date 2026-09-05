@@ -8,6 +8,7 @@
 - **Recuperação dos prontuários**
 - **Prescrição de medicamentos e instruções de uso**
 - **Solicitação de consultas**
+- **Obtenção de informações dos pacientes internados**
 - **Armazenameto dos resultados do paciente**
 
 ## Objetivos
@@ -19,4 +20,4 @@
 - **Ponderar os resultados gerados e buscar novos meios de resolução**
 
 ## Detalhes
-**O armazenamento será feito por meio de formulários que serão armazenados no formato de pdf ao serem enviados e** recuperados pelos mesmos formatos. As prescrições também serão enviadas no formato de pdf, porém visa-se incrementar outros formatos se possível no projeto tanto de envio quanto de recuperação, porém não é garantido **
+**O armazenamento será feito por meio de formulários que serão armazenados no formato de pdf ao serem enviados e<br>recuperados pelos mesmos formatos. As prescrições também serão enviadas no formato de pdf, porém visa-se<br> incrementar outros formatos se possível no projeto tanto de envio quanto de recuperação, porém não é garantido**
