@@ -2,6 +2,9 @@
 
 > Plataforma voltada para gerenciamento de atividades médicas e do paciente
 
+##Sobre
+**O Medical Management System é um sistema médico voltado para a interaçao médica com o paciente e armazenamento de informações essenciais sobre o paciente sendo que o mesmo pode ter acesso as informações prescritas pelo médico**
+
 ## Autenticação
 - **Tela de usuário e login**
 - **Opção de recuperação de senha**
