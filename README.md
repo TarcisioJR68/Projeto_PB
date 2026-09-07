@@ -29,8 +29,4 @@
 - Ambiente Mobile --> Dispositivos móveis
 - Ambiente Web --> No formato de site
 
-```
-git status
-git add
-git commit
-```
+`simples`
