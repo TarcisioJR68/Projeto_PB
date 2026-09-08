@@ -1,6 +1,8 @@
+--Informações sobre os pacientes hospitalizados
+
 CREATE TABLE hospitalizados(
     id      SERIAL PRIMARY KEY,
-    local_sala    VARCHAR(100),
+    local_sala    SMALLINT NOT NULL,
     tratamento  TEXT NOT NULL,
     descricao   TEXT,
     id_paciente INTEGER NOT NULL REFERENCES pacientes(id),

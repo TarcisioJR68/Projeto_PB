@@ -6,5 +6,6 @@ CREATE TABLE pacientes(
     data_nascimento     DATE NOT NULL,
     email   VARCHAR(100) NOT NULL UNIQUE,
     cpf     SMALLINT NOT NULL UNIQUE,
+    senha   VARCHAR(100) NOT NULL,
     criado_em      TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

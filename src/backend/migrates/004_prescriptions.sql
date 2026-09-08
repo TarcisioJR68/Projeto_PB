@@ -1,3 +1,5 @@
+--Prescreições e recomendações médicas
+
 CREATE TABLE prescricoes(
     id      SERIAL PRIMARY KEY,
     medicamentos    TEXT,

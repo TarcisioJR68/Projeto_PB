@@ -1,3 +1,5 @@
+--Informações sobre as fichas criadas pelos médicos
+
 CREATE TABLE fichas(
     id      SERIAL PRIMARY KEY,
     sintomas        TEXT NOT NULL,

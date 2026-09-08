@@ -1,11 +1,15 @@
-/*CREATE TABLE horarios(
+--Informações sobre os horários disponíveis dos médicos
+
+CREATE TABLE horarios(
     id      SERIAL PRIMARY KEY,
     disponivel_data DATE NOT NULL,
     disponivel_hora TIME NOT NULL,
     num_atendimentos      SMALLINT NOT NULL,
     id_medico       INTEGER NOT NULL REFERENCES medicos(id),
     criado_em       TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);*/
+);
+
+--Informações sobre os agendamentos dos pacientes
 
 CREATE TABLE agendamentos(
     id          SERIAL PRIMARY KEY,
