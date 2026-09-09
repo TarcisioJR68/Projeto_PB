@@ -5,7 +5,7 @@ USE DATABASE medical_system;*/
 
 --Informações sobre os médicos cadastrados
 
-/*CREATE TABLE medicos(
+CREATE TABLE medicos(
     id      SERIAL PRIMARY KEY,
     nome    VARCHAR(100) NOT NULL,
     formacao   VARCHAR(200) NOT NULL,
@@ -14,4 +14,4 @@ USE DATABASE medical_system;*/
     email   VARCHAR(100) NOT NULL UNIQUE,
     senha   VARCHAR(100) NOT NULL,
     criado_em    TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);*/
+);
