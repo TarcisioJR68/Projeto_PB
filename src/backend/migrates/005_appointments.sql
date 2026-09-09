@@ -15,7 +15,7 @@ CREATE TABLE agendamentos(
     id          SERIAL PRIMARY KEY,
     id_medico   INTEGER NOT NULL REFERENCES medicos(id),
     id_paciente INTEGER NOT NULL REFERENCES pacientes(id),
-    horario     TIME NOT NULL,
+    hora     TIME NOT NULL,
     data        DATE NOT NULL,    
     criado_em   TIMESTAMP DEFAULT CURRENT_TIMESTAMP   
 );

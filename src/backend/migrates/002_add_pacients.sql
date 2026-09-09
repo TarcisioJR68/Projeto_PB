@@ -5,7 +5,7 @@ CREATE TABLE pacientes(
     nome    VARCHAR(100) NOT NULL, 
     data_nascimento     DATE NOT NULL,
     email   VARCHAR(100) NOT NULL UNIQUE,
-    cpf     SMALLINT NOT NULL UNIQUE,
+    cpf     VARCHAR(16) NOT NULL UNIQUE,
     senha   VARCHAR(100) NOT NULL,
     criado_em      TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
